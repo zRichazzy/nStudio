@@ -96,7 +96,7 @@ You can also connect other MCP servers through local processes or streamable HTT
 
 ### 1. Install nStudio
 
-Download the latest release.
+Download the latest release from [Releases](https://github.com/zRichazzy/nStudio/releases/tag/v1.0.9).
 
 | Platform | Package                                  |
 | -------- | ---------------------------------------- |
